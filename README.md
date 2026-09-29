@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Ijaz</h1>
-<h3 align="center">Detail-oriented .NET Developer with extensive experience in designing, testing, and managing software applications using C#, ASP.NET, SQL Server, and RESTful APIs. Proficient in object-oriented programming, third-party API integration, and performance optimization. Strong communicator and team player, excelling in Agile environments. Committed to continuous learning and driving successful outcomes through innovative solutions.</h3>
+<h3 align="center">Senior Software Engineer specializing in .NET, C#, Azure, React, and scalable backend systems. Experienced in building microservices, REST APIs, cloud solutions, and distributed applications, with a strong focus on Clean Architecture, performance optimization, CI/CD, and third-party integrations. Currently exploring Python, AI, and modern software technologies.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan47hs&label=Profile%20views&color=0e75b6&style=flat" alt="hassan47hs" /> </p>
 
