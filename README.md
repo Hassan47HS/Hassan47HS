@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Ijaz</h1>
 <h3 align="center">Detail-oriented .NET Developer with extensive experience in designing, testing, and managing software applications using C#, ASP.NET, SQL Server, and RESTful APIs. Proficient in object-oriented programming, third-party API integration, and performance optimization. Strong communicator and team player, excelling in Agile environments. Committed to continuous learning and driving successful outcomes through innovative solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan47hs&label=Profile%20views&color=0e75b6&style=flat" alt="hassan47hs" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan47hs&label=Profile%20views&color=0e75b6&style=flat" alt="hassan47hs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan47hs" alt="hassan47hs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan47hs" alt="hassan47hs" /></a> </p> -->
 
 - 💬 Ask me about **ASP.NET, .NET Core, Entity Frame Work, MVC**
 
